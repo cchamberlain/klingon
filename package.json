@@ -1,6 +1,6 @@
 {
   "name": "klingon",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Nodejs language generator.",
   "main": "index.js",
   "scripts": {
