@@ -1,0 +1,25 @@
+{
+  "name": "klingon",
+  "version": "0.1.0",
+  "description": "Nodejs language generator.",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape test/*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cchamberlain/klingon.git"
+  },
+  "keywords": [
+    "klingon",
+    "nodejs",
+    "language",
+    "generation"
+  ],
+  "author": "Cole Chamberlain",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cchamberlain/klingon/issues"
+  },
+  "homepage": "https://github.com/cchamberlain/klingon#readme"
+}
